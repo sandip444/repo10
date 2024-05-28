@@ -2,8 +2,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: git-test-repo
+  name: git-test-repo1
 spec:
   type: openapi
-  lifecycle: production
+  lifecycle: production1
   owner: artist-relations-tea
